@@ -59,13 +59,12 @@ npm install
 
 ## Local Development
 
-Start the development server:
+#### Front end:  
+Run the `npm start` command to start a local development server and open up a browser window. Most changes are reflected live without having to restart the server.  
 
-```bash
-npm start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+#### Back end:
+See the [server](server/#readme) folder  
+&nbsp;<br>  
 
 ## Build
 
